@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">Quiz</string>
+    <string name="answer_here_hint">Answer here</string>
+    <string name="surfacing">Surfacing</string>
+    <string name="swing_time">Swing Time</string>
+    <string name="the_heart_goes_last">The Heart Goes Last</string>
+    <string name="madadam">MadAdam</string>
+    <string name="oryx_and_crake">Oryx and Crake</string>
+    <string name="angel_catbird">Angel Catbird</string>
+    <string name="devil_dogfish">Devil Dogfish</string>
+    <string name="evil_egghead">Evil Egghead</string>
+    <string name="the_year_of_the_flood">The Year of the Flood</string>
+    <string name="submit">submit</string>
+    <string name="question_one">what country does Margaret Atwood live in?</string>
+    <string name="question_two">which of these is NOT an Atwood novel?</string>
+    <string name="question_one_title">Question One</string>
+    <string name="question_two_title">Question Two</string>
+    <string name="question_three_title">Question Three</string>
+    <string name="question_three">what are the three titles in Atwood\'s MadAdam Trilogy?</string>
+    <string name="question_four_title">Question Four</string>
+    <string name="question_four">what is the name of Atwood\'s graphic novel?</string>
+    <string name="maddaddam">MaddAddam</string>
 </resources>
